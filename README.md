@@ -15,7 +15,11 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm **Menna Elseid**, a **Backend Developer**, active **Competitive Programmer**, and passionate **Educational Content Creator**.
+👩‍🏫 Hola, This is Menna Elseyed<br>
+👩🏻‍💻Educational Content Creator<br>
+nodjs Backend Developer<br> 
+Competitive Programmer<br>
+ 
   <br>
   <br>
   💻 My primary focus is building robust and scalable server-side systems, specializing in the **Node.js** framework and possessing knowledge of the **.NET** ecosystem.
@@ -54,17 +58,5 @@
 
 <h2 align="center">👨‍💻 Featured Repositories 👨‍💻</h2>
 <br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/your-username/algorithms-cp" title="Competitive Programming & Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=algorithms-cp&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/your-username/nodejs-backend-api" title="Node.js/Express Backend API"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=nodejs-backend-api&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/your-username/dotnet-web-api" title=".NET Core Web API Project"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=dotnet-web-api&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/your-username/educational-content" title="Educational Content & Tutorials"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=educational-content&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
+https://github.com/your-username?tab=repositories" title="Show Repositories">🔎 Show More Repositories 🔍</a>
 
-<h4 align="center">
-  <a href="https://github.com/your-username?tab=repositories" title="Show Repositories">🔎 Show More Repositories 🔍</a>
-</h4>
