@@ -7,8 +7,9 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/menna-elseid" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/menna-elseid" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> Competitive Programming</a></code>
+  <code><a href="[https://www.linkedin.com/in/menna-elseid](https://www.linkedin.com/in/menna-elsayed-b60333343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  
+<code><a href="https://codeforces.com/profile/menna-elseid" title="Codeforces Profile"><img width="22" src="images/codeforces.png"> Competitive Programming</a></code>
   <code><a href="https://stackoverflow.com/users/your-user-id" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://github.com/menna-elseid/issues" title="Ask Me Anything"><img width="22" src="images/github.svg"> Ask Me Anything</a></code>
 </h5>
