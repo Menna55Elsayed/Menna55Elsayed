@@ -1,8 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=menna-elseid.menna-elseid">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Dev!+👋;This+is+Menna+Elseid....;Let's+build+something+great!&center=true&size=30">
+ <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=¡Hola,+Cómo+estás!+👋;esta+es+Menna+Elsayed....;Let's+build+something+great!&center=true&size=30">
   </a>
 </h1>
 
@@ -21,7 +21,7 @@
 👩🏻‍💻Educational Content Creator<br>
 nodjs Backend Developer<br> 
 Competitive Programmer<br>
- 
+Graphic Designer<br>
   <br>
   <br>
   💻 My primary focus is building robust and scalable server-side systems, specializing in the **Node.js** framework and possessing knowledge of the **.NET** ecosystem.
