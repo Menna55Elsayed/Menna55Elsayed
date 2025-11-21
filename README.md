@@ -14,8 +14,8 @@
 
   
 </h5>
-
 <br>
+
 <p align="center">
 👩‍🏫 Hola, This is Menna Elseyed<br>
 👩🏻‍💻Educational Content Creator<br>
@@ -34,8 +34,9 @@ Graphic Designer<br>
   <br>
   📫 How to reach me: <a href="engmenna512@gmail.com">engmenna512@gmail.com</a>
 </p>
-
-<hr>
+<br>
+<br>
+<br>
 <h2 align="center">🔥 Skills & Technologies 🔥</h2>
 <br>
 <p align="center">
@@ -56,9 +57,3 @@ Graphic Designer<br>
   <code><img height="40" src="images/sql-server.png"></code>
  <code><img height="40" src="images/database.png"></code>
 </p>
-<hr>
-
-<h2 align="center">👨‍💻 Featured Repositories 👨‍💻</h2>
-<br>
-https://github.com/your-username?tab=repositories" title="Show Repositories">🔎 Show More Repositories 🔍</a>
-
