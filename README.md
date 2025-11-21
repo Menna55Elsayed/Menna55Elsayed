@@ -7,12 +7,14 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="[https://www.linkedin.com/in/menna-elseid](https://www.linkedin.com/in/menna-elsayed-b60333343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/menna-elsayed-b60333343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" title="LinkedIn Profile"><img width="35" src="images/linkedin.png"></a></code>  
+  <code><a href="https://codeforces.com/profile/menna5elsyd" title="Codeforces Profile"><img width="35" src="images/codeforces.png"></a></code>
+  <code><a href="https://youtube.com/@engmenna5?si=9CGjsinLRX8TLQZb" title="YouTube Channel"><img width="35" src="images/youtube.png"></a></code>
+  <code><a href="https://www.behance.net/mennaelsayed23" title="Behance"><img width="35" src="images/social.png"></a></code>
+
   
-<code><a href="https://codeforces.com/profile/menna-elseid" title="Codeforces Profile"><img width="22" src="images/codeforces.png"> Competitive Programming</a></code>
-  <code><a href="https://stackoverflow.com/users/your-user-id" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://github.com/menna-elseid/issues" title="Ask Me Anything"><img width="22" src="images/github.svg"> Ask Me Anything</a></code>
 </h5>
+
 <br>
 <p align="center">
 👩‍🏫 Hola, This is Menna Elseyed<br>
@@ -30,7 +32,7 @@ Competitive Programmer<br>
   <br>
   🎨 I also possess foundational skills in design and visual content creation using tools like **Adobe Photoshop**, **Illustrator**, and **Blender**.
   <br>
-  📫 How to reach me: <a href="mailto: your-email@example.com">your-email@example.com</a> (Please replace with your actual email)
+  📫 How to reach me: <a href="engmenna512@gmail.com">engmenna512@gmail.com</a>
 </p>
 
 <hr>
@@ -38,21 +40,21 @@ Competitive Programmer<br>
 <br>
 <p align="center">
   
-  <code><img title="Node.js" height="25" src="images/nodejs.svg"></code>
-  <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
-  <code><img title=".Net Core" height="25" src="images/dotnetcore.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS3" height="25" src="images/css.svg"></code>
-  <code><img title="Adobe Photoshop" height="25" src="images/photoshop.svg"></code>
-  <code><img title="Adobe Illustrator" height="25" src="images/illustrator.svg"></code>
-  <code><img title="Blender" height="25" src="images/blender.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="SQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
+  <code><img height="40" src="images/nodejs.png"></code>
+  <code><img height="40" src="images/java-script.png"></code>
+  <code><img height="40" src="images/.net.png"></code>
+  <code><img height="40" src="images/c-sharp.png"></code>
+  <code><img height="40" src="images/c-.png"></code>
+  <code><img height="40" src="images/programming.png"></code>
+  <code><img height="40" src="images/html.png"></code>
+  <code><img height="40" src="images/css.png"></code>
+  <code><img height="40" src="images/photoshop.png"></code>
+  <code><img height="40" src="images/illustrator.png"></code>
+  <code><img height="40" src="images/blender.png"></code>
+  <code><img height="40" src="images/git.png"></code>
+  <code><img height="40" src="images/github.png"></code>
+  <code><img height="40" src="images/sql-server.png"></code>
+ <code><img height="40" src="images/database.png"></code>
 </p>
 <hr>
 
