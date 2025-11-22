@@ -17,27 +17,32 @@
 <br>
 
 <p align="center">
-👩‍🏫 Hola, This is Menna Elseyed<br>
-👩🏻‍💻Educational Content Creator<br>
-nodjs Backend Developer<br> 
-Competitive Programmer<br>
-Graphic Designer<br>
+👑 Hola, This is Menna Elseyed<br>
+👩🏻‍💻 Educational Content Creator<br>
+💻 nodjs Backend Developer<br> 
+🎯 Competitive Programmer<br>
+🎨 Graphic Designer<br>
+  </p>
   <br>
   <br>
-  💻 My primary focus is building robust and scalable server-side systems, specializing in the **Node.js** framework and possessing knowledge of the **.NET** ecosystem.
+  <p align="left">
+🎓 I'm Menna Elsayed, a third-year student at Faculty of Computer and Information Science – Mansoura University.
   <br>
-  🧠 I leverage **C++** for sharp algorithmic thinking and actively participate in competitive programming to refine my problem-solving skills.
+💡 I'm interested in Coding and Backend Development, with a focus on practical application throughprojects.
   <br>
-  🎬 I create educational content to simplify complex technical concepts and promote effective learning.
+🎬 I create educational content to simplify complex technical concepts and promote effective learning.
   <br>
-  🎨 I also possess foundational skills in design and visual content creation using tools like **Adobe Photoshop**, **Illustrator**, and **Blender**.
+💻 I'm focusing on Node.js Framwork , Problem Solving with c++ for competitive programming.
+  <br>
+🎨 Beyond code, I enjoy the art of design, creating beautiful and real Designs.
+  </p>
+  <p align ="center">
   <br>
   📫 How to reach me: <a href="engmenna512@gmail.com">engmenna512@gmail.com</a>
-</p>
+    </p>
 <br>
 <br>
-<br>
-<h2 align="center">🔥 Skills & Technologies 🔥</h2>
+<h2 align="center">🔥 Tools & Technologies 🔥</h2>
 <br>
 <p align="center">
   
