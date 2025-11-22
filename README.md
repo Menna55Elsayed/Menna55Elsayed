@@ -11,8 +11,6 @@
   <code><a href="https://codeforces.com/profile/menna5elsyd" title="Codeforces Profile"><img width="35" src="images/codeforces.png"></a></code>
   <code><a href="https://youtube.com/@engmenna5?si=9CGjsinLRX8TLQZb" title="YouTube Channel"><img width="35" src="images/youtube.png"></a></code>
   <code><a href="https://www.behance.net/mennaelsayed23" title="Behance"><img width="35" src="images/social.png"></a></code>
-
-  
 </h5>
 <br>
 
@@ -36,16 +34,13 @@
   <br>
 🎨 Beyond code, I enjoy the art of design, creating beautiful and real Designs.
   </p>
+  <br>
   <p align ="center">
-  <br>
-  📫 How to reach me: <a href="engmenna512@gmail.com">engmenna512@gmail.com</a>
-    </p>
-<br>
-<br>
+  📫 How to reach me: <a href="engmenna512@gmail.com">engmenna512@gmail.com</a> </p>
+  <br>
 <h2 align="center">🔥 Tools & Technologies 🔥</h2>
 <br>
-<p align="center">
-  
+<p align="center"> 
   <code><img height="40" src="images/nodejs.png"></code>
   <code><img height="40" src="images/java-script.png"></code>
   <code><img height="40" src="images/.net.png"></code>
