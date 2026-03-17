@@ -9,7 +9,7 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/menna-elsayed-b60333343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" title="LinkedIn Profile"><img width="35" src="images/linkedin.png"></a></code>  
   <code><a href="https://codeforces.com/profile/menna5elsyd" title="Codeforces Profile"><img width="35" src="images/codeforces.png"></a></code>
-  <code><a href="[https://youtube.com/@engmenna5?si=9CGjsinLRX8TLQZb](https://www.youtube.com/@Menna_Elsayed_5)" title="YouTube Channel"><img width="35" src="images/youtube.png"></a></code>
+  <code><a href="https://www.youtube.com/@Menna_Elsayed_5" title="YouTube Channel"><img width="35" src="images/youtube.png"></a></code>
   <code><a href="https://www.behance.net/mennaelsayed23" title="Behance"><img width="35" src="images/social.png"></a></code>
 </h5>
 <br>
