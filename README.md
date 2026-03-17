@@ -26,7 +26,7 @@
   <p align="left">
 🎓 I'm Menna Elsayed, a third-year student at Faculty of Computer and Information Science – Mansoura University.
   <br>
-💡 I'm interested in Coding and Backend Development, with a focus on practical application throughprojects.
+💡 I'm interested in Coding and Backend Development, with a focus on practical application through projects.
   <br>
 🎬 I create educational content to simplify complex technical concepts and promote effective learning.
   <br>
