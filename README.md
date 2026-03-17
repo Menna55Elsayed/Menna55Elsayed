@@ -44,14 +44,14 @@
   <code><img height="40" src="images/nodejs.png"></code>
   <code><img height="40" src="images/java-script.png"></code>
 <!--<code><img height="40" src="images/.net.png"></code>-->
-  <code><img height="40" src="images/c-sharp.png"></code>
+
   <code><img height="40" src="images/c-.png"></code>
   <code><img height="40" src="images/programming.png"></code>
   <code><img height="40" src="images/html.png"></code>
   <code><img height="40" src="images/css.png"></code>
   <code><img height="40" src="images/photoshop.png"></code>
   <code><img height="40" src="images/illustrator.png"></code>
-  <code><img height="40" src="images/blender.png"></code>
+
   <code><img height="40" src="images/git.png"></code>
   <code><img height="40" src="images/github.png"></code>
   <code><img height="40" src="images/sql-server.png"></code>
